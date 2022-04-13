@@ -57,6 +57,11 @@ button {
     top: 35%;
 }
 
+button:hover {
+    cursor: pointer;
+    background: #363636;
+}
+
 a {
     text-decoration: none;
     color: white;
